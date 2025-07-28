@@ -220,7 +220,7 @@ function App() {
                       rel="noopener noreferrer"
                       className="bg-blue-800 p-3 rounded-lg block border border-zinc-600 hover:bg-blue-700"
                     >
-                      Link Website <i className="ri-arrow-right-line"></i>
+                      Selengkapnya... <i className="ri-arrow-right-line"></i>
                     </a>
                   )}
                 </div>

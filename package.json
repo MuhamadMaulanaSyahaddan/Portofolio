@@ -1,11 +1,11 @@
 {
-  "homepage": "https://MuhamadMaulanaSyahaddan.github.io/Portofolio",
+  "homepage": "https://maulanatech.com",
   "name": "react-porotfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predepoly": "npm run build",
+    "predeploy": "npm run build && echo 'maulanatech.com' > dist/CNAME",
     "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
