@@ -33,7 +33,7 @@ function App() {
           </p>
           <div className="flex items-center sm:gap-4 gap-2">
             <a
-              href="#"
+              href="https://drive.google.com/file/d/1xzNuOAyVjEnOR9mTmr-JE_M-ooIaYdMF/view?usp=sharing"
               className="bg-blue-800 p-4 rounded-2xl hover:bg-blue-700"
             >
               Download CV <i className="ri-download-line ri-lg"></i>
